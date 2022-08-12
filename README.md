@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selenabythemoon
 - 👀 I’m interested in game programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning to program with Javascript and Scratch
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
